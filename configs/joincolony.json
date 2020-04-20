@@ -1,11 +1,10 @@
 {
   "index_name": "joincolony",
   "start_urls": [
-    "https://joincolony.github.io/help/docs/",
-    "https://joincolony.github.io/help/docs/doc2.html"
+    "https://help.colony.io"
   ],
   "sitemap_urls": [
-    "https://joincolony.github.io/help/sitemap.xml"
+    "https://help.colony.io/help/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
